@@ -1,0 +1,16 @@
+
+<selector xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:state_pressed="true">
+        <shape>
+            <solid android:color="@color/buttonPinkDark" />
+            <corners android:radius="24dp" />
+        </shape>
+    </item>
+
+    <item>
+        <shape>
+            <solid android:color="@color/buttonPink" />
+            <corners android:radius="24dp" />
+        </shape>
+    </item>
+</selector>

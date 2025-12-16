@@ -1,0 +1,30 @@
+
+<resources>
+    <!-- Warna tombol khusus -->
+    <color name="buttonPink">#D63A73</color>
+    <color name="buttonPinkDark">#B82F60</color>
+
+    <!-- Warna default bawaan template (biarkan saja) -->
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="purple_500">#FF6200EE</color>
+    <color name="purple_700">#FF3700B3</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+    <!-- Palet pink utama -->
+    <color name="pinkPrimary">#FF4081</color>
+    <color name="pinkPrimaryDark">#F50057</color>
+    <color name="pinkLight">#FFE4F1</color>
+    <color name="pinkAccent">#FF80AB</color>
+
+    <!-- Warna teks -->
+    <color name="textDark">#212121</color>
+    <color name="textLight">#FFFFFF</color>
+    <color name="textMuted">#AAFFFFFF</color>
+
+    <!-- Background -->
+    <color name="bgSoftPink">#FFF5FB</color>
+</resources>
+

@@ -1,0 +1,2704 @@
+{
+  "words": [
+    {
+      "id": "cepat",
+      "en": "fast",
+      "ar": "سريع",
+      "kategori": "Sifat"
+    },
+    {
+      "id": "lambat",
+      "en": "slow",
+      "ar": "بطيء",
+      "kategori": "Sifat"
+    },
+    {
+      "id": "besar",
+      "en": "big",
+      "ar": "كبير",
+      "kategori": "Sifat"
+    },
+    {
+      "id": "kecil",
+      "en": "small",
+      "ar": "صغير",
+      "kategori": "Sifat"
+    },
+    {
+      "id": "panjang",
+      "en": "long",
+      "ar": "طويل",
+      "kategori": "Sifat"
+    },
+    {
+      "id": "pendek",
+      "en": "short",
+      "ar": "قصير",
+      "kategori": "Sifat"
+    },
+    {
+      "id": "kuat",
+      "en": "strong",
+      "ar": "قوي",
+      "kategori": "Sifat"
+    },
+    {
+      "id": "lemah",
+      "en": "weak",
+      "ar": "ضعيف",
+      "kategori": "Sifat"
+    },
+    {
+      "id": "baik",
+      "en": "good",
+      "ar": "جيد",
+      "kategori": "Sifat"
+    },
+    {
+      "id": "buruk",
+      "en": "bad",
+      "ar": "سيء",
+      "kategori": "Sifat"
+    },
+    {
+      "id": "baru",
+      "en": "new",
+      "ar": "جديد",
+      "kategori": "Sifat"
+    },
+    {
+      "id": "lama",
+      "en": "old",
+      "ar": "قديم",
+      "kategori": "Sifat"
+    },
+    {
+      "id": "indah",
+      "en": "beautiful",
+      "ar": "جميل",
+      "kategori": "Sifat"
+    },
+    {
+      "id": "jelek",
+      "en": "ugly",
+      "ar": "قبيح",
+      "kategori": "Sifat"
+    },
+    {
+      "id": "bersih",
+      "en": "clean",
+      "ar": "نظيف",
+      "kategori": "Sifat"
+    },
+    {
+      "id": "kotor",
+      "en": "dirty",
+      "ar": "متسخ",
+      "kategori": "Sifat"
+    },
+    {
+      "id": "mahal",
+      "en": "expensive",
+      "ar": "غالي",
+      "kategori": "Sifat"
+    },
+    {
+      "id": "murah",
+      "en": "cheap",
+      "ar": "رخيص",
+      "kategori": "Sifat"
+    },
+    {
+      "id": "ramai",
+      "en": "crowded",
+      "ar": "مزدحم",
+      "kategori": "Sifat"
+    },
+    {
+      "id": "sepi",
+      "en": "quiet",
+      "ar": "هادئ",
+      "kategori": "Sifat"
+    },
+    {
+      "id": "lembut",
+      "en": "soft",
+      "ar": "ناعم",
+      "kategori": "Sifat"
+    },
+    {
+      "id": "keras",
+      "en": "hard",
+      "ar": "صلب",
+      "kategori": "Sifat"
+    },
+    {
+      "id": "panas",
+      "en": "hot",
+      "ar": "حار",
+      "kategori": "Sifat"
+    },
+    {
+      "id": "dingin",
+      "en": "cold",
+      "ar": "بارد",
+      "kategori": "Sifat"
+    },
+    {
+      "id": "bahagia",
+      "en": "happy",
+      "ar": "سعيد",
+      "kategori": "Sifat"
+    },
+    {
+      "id": "tempat",
+      "en": "place",
+      "ar": "مكان",
+      "kategori": "Tempat"
+    },
+    {
+      "id": "toko",
+      "en": "shop",
+      "ar": "متجر",
+      "kategori": "Tempat"
+    },
+    {
+      "id": "pasar",
+      "en": "market",
+      "ar": "سوق",
+      "kategori": "Tempat"
+    },
+    {
+      "id": "restoran",
+      "en": "restaurant",
+      "ar": "مطعم",
+      "kategori": "Tempat"
+    },
+    {
+      "id": "kafe",
+      "en": "cafe",
+      "ar": "مقهى",
+      "kategori": "Tempat"
+    },
+    {
+      "id": "hotel",
+      "en": "hotel",
+      "ar": "فندق",
+      "kategori": "Tempat"
+    },
+    {
+      "id": "kantin",
+      "en": "canteen",
+      "ar": "كافتيريا",
+      "kategori": "Tempat"
+    },
+    {
+      "id": "musium",
+      "en": "museum",
+      "ar": "متحف",
+      "kategori": "Tempat"
+    },
+    {
+      "id": "bioskop",
+      "en": "cinema",
+      "ar": "سينما",
+      "kategori": "Tempat"
+    },
+    {
+      "id": "taman kota",
+      "en": "city park",
+      "ar": "حديقة المدينة",
+      "kategori": "Tempat"
+    },
+    {
+      "id": "kebun binatang",
+      "en": "zoo",
+      "ar": "حديقة الحيوانات",
+      "kategori": "Tempat"
+    },
+    {
+      "id": "pantai",
+      "en": "beach",
+      "ar": "شاطئ",
+      "kategori": "Tempat"
+    },
+    {
+      "id": "gunung",
+      "en": "mountain",
+      "ar": "جبل",
+      "kategori": "Tempat"
+    },
+    {
+      "id": "laut",
+      "en": "sea",
+      "ar": "بحر",
+      "kategori": "Tempat"
+    },
+    {
+      "id": "danau",
+      "en": "lake",
+      "ar": "بحيرة",
+      "kategori": "Tempat"
+    },
+    {
+      "id": "hutan",
+      "en": "forest",
+      "ar": "غابة",
+      "kategori": "Tempat"
+    },
+    {
+      "id": "sungai",
+      "en": "river",
+      "ar": "نهر",
+      "kategori": "Tempat"
+    },
+    {
+      "id": "desa",
+      "en": "village",
+      "ar": "قرية",
+      "kategori": "Tempat"
+    },
+    {
+      "id": "kota",
+      "en": "city",
+      "ar": "مدينة",
+      "kategori": "Tempat"
+    },
+    {
+      "id": "negeri",
+      "en": "country",
+      "ar": "بلد",
+      "kategori": "Tempat"
+    },
+    {
+      "id": "rumah sakit",
+      "en": "hospital",
+      "ar": "مستشفى",
+      "kategori": "Tempat"
+    },
+    {
+      "id": "sekolah dasar",
+      "en": "elementary school",
+      "ar": "مدرسة ابتدائية",
+      "kategori": "Tempat"
+    },
+    {
+      "id": "perpustakaan umum",
+      "en": "public library",
+      "ar": "مكتبة عامة",
+      "kategori": "Tempat"
+    },
+    {
+      "id": "stasiun kereta",
+      "en": "train station",
+      "ar": "محطة قطار",
+      "kategori": "Tempat"
+    },
+    {
+      "id": "bandara internasional",
+      "en": "international airport",
+      "ar": "مطار دولي",
+      "kategori": "Tempat"
+    },
+    {
+      "id": "profesi",
+      "en": "profession",
+      "ar": "مهنة",
+      "kategori": "Profesi"
+    },
+    {
+      "id": "polisi",
+      "en": "police officer",
+      "ar": "شرطي",
+      "kategori": "Profesi"
+    },
+    {
+      "id": "tentara",
+      "en": "soldier",
+      "ar": "جندي",
+      "kategori": "Profesi"
+    },
+    {
+      "id": "perawat",
+      "en": "nurse",
+      "ar": "ممرضة",
+      "kategori": "Profesi"
+    },
+    {
+      "id": "dokter gigi",
+      "en": "dentist",
+      "ar": "طبيب أسنان",
+      "kategori": "Profesi"
+    },
+    {
+      "id": "apotek",
+      "en": "pharmacist",
+      "ar": "صيدلي",
+      "kategori": "Profesi"
+    },
+    {
+      "id": "petani",
+      "en": "farmer",
+      "ar": "مزارع",
+      "kategori": "Profesi"
+    },
+    {
+      "id": "nelayan",
+      "en": "fisherman",
+      "ar": "صياد",
+      "kategori": "Profesi"
+    },
+    {
+      "id": "pedagang",
+      "en": "merchant",
+      "ar": "تاجر",
+      "kategori": "Profesi"
+    },
+    {
+      "id": "pengacara",
+      "en": "lawyer",
+      "ar": "محامي",
+      "kategori": "Profesi"
+    },
+    {
+      "id": "hakim",
+      "en": "judge",
+      "ar": "قاضٍ",
+      "kategori": "Profesi"
+    },
+    {
+      "id": "mekanik",
+      "en": "mechanic",
+      "ar": "ميكانيكي",
+      "kategori": "Profesi"
+    },
+    {
+      "id": "sopir",
+      "en": "driver",
+      "ar": "سائق",
+      "kategori": "Profesi"
+    },
+    {
+      "id": "pemadam kebakaran",
+      "en": "firefighter",
+      "ar": "رجل إطفاء",
+      "kategori": "Profesi"
+    },
+    {
+      "id": "jurnalis",
+      "en": "journalist",
+      "ar": "صحفي",
+      "kategori": "Profesi"
+    },
+    {
+      "id": "fotografer",
+      "en": "photographer",
+      "ar": "مصور",
+      "kategori": "Profesi"
+    },
+    {
+      "id": "pelayan",
+      "en": "waiter",
+      "ar": "نادل",
+      "kategori": "Profesi"
+    },
+    {
+      "id": "tukang kayu",
+      "en": "carpenter",
+      "ar": "نجار",
+      "kategori": "Profesi"
+    },
+    {
+      "id": "arsitek",
+      "en": "architect",
+      "ar": "مهندس معماري",
+      "kategori": "Profesi"
+    },
+    {
+      "id": "sekretaris",
+      "en": "secretary",
+      "ar": "سكرتير",
+      "kategori": "Profesi"
+    },
+    {
+      "id": "penjahit",
+      "en": "tailor",
+      "ar": "خياط",
+      "kategori": "Profesi"
+    },
+    {
+      "id": "desainer",
+      "en": "designer",
+      "ar": "مصمم",
+      "kategori": "Profesi"
+    },
+    {
+      "id": "aktor",
+      "en": "actor",
+      "ar": "ممثل",
+      "kategori": "Profesi"
+    },
+    {
+      "id": "aktris",
+      "en": "actress",
+      "ar": "ممثلة",
+      "kategori": "Profesi"
+    },
+    {
+      "id": "musisi",
+      "en": "musician",
+      "ar": "موسيقي",
+      "kategori": "Profesi"
+    },
+    {
+      "id": "peralatan dapur",
+      "en": "kitchen tools",
+      "ar": "أدوات المطبخ",
+      "kategori": "Dapur"
+    },
+    {
+      "id": "kompor",
+      "en": "stove",
+      "ar": "موقد",
+      "kategori": "Dapur"
+    },
+    {
+      "id": "panci",
+      "en": "pan",
+      "ar": "قدر",
+      "kategori": "Dapur"
+    },
+    {
+      "id": "wajan",
+      "en": "frying pan",
+      "ar": "مقلاة",
+      "kategori": "Dapur"
+    },
+    {
+      "id": "pisau dapur",
+      "en": "kitchen knife",
+      "ar": "سكين مطبخ",
+      "kategori": "Dapur"
+    },
+    {
+      "id": "talenan",
+      "en": "cutting board",
+      "ar": "لوح تقطيع",
+      "kategori": "Dapur"
+    },
+    {
+      "id": "spatula",
+      "en": "spatula",
+      "ar": "مِلْعَقَة مَسْطَرِيَّة",
+      "kategori": "Dapur"
+    },
+    {
+      "id": "sendok sayur",
+      "en": "ladle",
+      "ar": "مغرفة",
+      "kategori": "Dapur"
+    },
+    {
+      "id": "piring",
+      "en": "plate",
+      "ar": "صحن",
+      "kategori": "Dapur"
+    },
+    {
+      "id": "mangkuk",
+      "en": "bowl",
+      "ar": "وعاء",
+      "kategori": "Dapur"
+    },
+    {
+      "id": "gelas",
+      "en": "glass",
+      "ar": "كأس",
+      "kategori": "Dapur"
+    },
+    {
+      "id": "teko",
+      "en": "kettle",
+      "ar": "إبريق",
+      "kategori": "Dapur"
+    },
+    {
+      "id": "teko listrik",
+      "en": "electric kettle",
+      "ar": "غلاية كهربائية",
+      "kategori": "Dapur"
+    },
+    {
+      "id": "oven",
+      "en": "oven",
+      "ar": "فرن",
+      "kategori": "Dapur"
+    },
+    {
+      "id": "microwave",
+      "en": "microwave",
+      "ar": "ميكرويف",
+      "kategori": "Dapur"
+    },
+    {
+      "id": "blender",
+      "en": "blender",
+      "ar": "خلاط",
+      "kategori": "Dapur"
+    },
+    {
+      "id": "juicer",
+      "en": "juicer",
+      "ar": "عصارة",
+      "kategori": "Dapur"
+    },
+    {
+      "id": "pengocok",
+      "en": "whisk",
+      "ar": "مخفقة",
+      "kategori": "Dapur"
+    },
+    {
+      "id": "parutan",
+      "en": "grater",
+      "ar": "مبشرة",
+      "kategori": "Dapur"
+    },
+    {
+      "id": "tisu dapur",
+      "en": "kitchen tissue",
+      "ar": "مناديل مطبخ",
+      "kategori": "Dapur"
+    },
+    {
+      "id": "saringan",
+      "en": "strainer",
+      "ar": "مصفاة",
+      "kategori": "Dapur"
+    },
+    {
+      "id": "pembersih",
+      "en": "cleaner",
+      "ar": "منظف",
+      "kategori": "Dapur"
+    },
+    {
+      "id": "ember",
+      "en": "bucket",
+      "ar": "دلو",
+      "kategori": "Dapur"
+    },
+    {
+      "id": "kulkas",
+      "en": "refrigerator",
+      "ar": "ثلاجة",
+      "kategori": "Dapur"
+    },
+    {
+      "id": "mesin cuci piring",
+      "en": "dishwasher",
+      "ar": "غسالة صحون",
+      "kategori": "Dapur"
+    },
+    {
+      "id": "hobi",
+      "en": "hobby",
+      "ar": "هواية",
+      "kategori": "Hobi"
+    },
+    {
+      "id": "membaca",
+      "en": "reading",
+      "ar": "قراءة",
+      "kategori": "Hobi"
+    },
+    {
+      "id": "menulis",
+      "en": "writing",
+      "ar": "كتابة",
+      "kategori": "Hobi"
+    },
+    {
+      "id": "menggambar",
+      "en": "drawing",
+      "ar": "رسم",
+      "kategori": "Hobi"
+    },
+    {
+      "id": "melukis",
+      "en": "painting",
+      "ar": "تلوين",
+      "kategori": "Hobi"
+    },
+    {
+      "id": "fotografi",
+      "en": "photography",
+      "ar": "تصوير",
+      "kategori": "Hobi"
+    },
+    {
+      "id": "bermain musik",
+      "en": "playing music",
+      "ar": "عزف الموسيقى",
+      "kategori": "Hobi"
+    },
+    {
+      "id": "bernyanyi",
+      "en": "singing",
+      "ar": "غناء",
+      "kategori": "Hobi"
+    },
+    {
+      "id": "menari",
+      "en": "dancing",
+      "ar": "رقص",
+      "kategori": "Hobi"
+    },
+    {
+      "id": "memasak",
+      "en": "cooking",
+      "ar": "طبخ",
+      "kategori": "Hobi"
+    },
+    {
+      "id": "berkebun",
+      "en": "gardening",
+      "ar": "بستنة",
+      "kategori": "Hobi"
+    },
+    {
+      "id": "berenang",
+      "en": "swimming",
+      "ar": "سباحة",
+      "kategori": "Hobi"
+    },
+    {
+      "id": "bersepeda",
+      "en": "cycling",
+      "ar": "ركوب الدراجات",
+      "kategori": "Hobi"
+    },
+    {
+      "id": "berkemah",
+      "en": "camping",
+      "ar": "تخييم",
+      "kategori": "Hobi"
+    },
+    {
+      "id": "memancing",
+      "en": "fishing",
+      "ar": "صيد السمك",
+      "kategori": "Hobi"
+    },
+    {
+      "id": "bermain game",
+      "en": "gaming",
+      "ar": "ألعاب",
+      "kategori": "Hobi"
+    },
+    {
+      "id": "mengoleksi",
+      "en": "collecting",
+      "ar": "جمع",
+      "kategori": "Hobi"
+    },
+    {
+      "id": "menjahit",
+      "en": "sewing",
+      "ar": "خياطة",
+      "kategori": "Hobi"
+    },
+    {
+      "id": "merajut",
+      "en": "knitting",
+      "ar": "حياكة",
+      "kategori": "Hobi"
+    },
+    {
+      "id": "origami",
+      "en": "origami",
+      "ar": "أوريغامي",
+      "kategori": "Hobi"
+    },
+    {
+      "id": "kaligrafi",
+      "en": "calligraphy",
+      "ar": "خط",
+      "kategori": "Hobi"
+    },
+    {
+      "id": "bermain catur",
+      "en": "playing chess",
+      "ar": "لعب الشطرنج",
+      "kategori": "Hobi"
+    },
+    {
+      "id": "berpetualang",
+      "en": "adventuring",
+      "ar": "مغامرة",
+      "kategori": "Hobi"
+    },
+    {
+      "id": "traveling",
+      "en": "traveling",
+      "ar": "سفر",
+      "kategori": "Hobi"
+    },
+    {
+      "id": "menjelajah",
+      "en": "exploring",
+      "ar": "استكشاف",
+      "kategori": "Hobi"
+    },
+    {
+      "id": "cuaca",
+      "en": "weather",
+      "ar": "طقس",
+      "kategori": "Cuaca"
+    },
+    {
+      "id": "hujan",
+      "en": "rain",
+      "ar": "مطر",
+      "kategori": "Cuaca"
+    },
+    {
+      "id": "panas",
+      "en": "hot",
+      "ar": "حار",
+      "kategori": "Cuaca"
+    },
+    {
+      "id": "dingin",
+      "en": "cold",
+      "ar": "بارد",
+      "kategori": "Cuaca"
+    },
+    {
+      "id": "mendung",
+      "en": "cloudy",
+      "ar": "غائم",
+      "kategori": "Cuaca"
+    },
+    {
+      "id": "berawan",
+      "en": "overcast",
+      "ar": "مُلبّد",
+      "kategori": "Cuaca"
+    },
+    {
+      "id": "salju",
+      "en": "snow",
+      "ar": "ثلج",
+      "kategori": "Cuaca"
+    },
+    {
+      "id": "angin",
+      "en": "wind",
+      "ar": "رياح",
+      "kategori": "Cuaca"
+    },
+    {
+      "id": "badai",
+      "en": "storm",
+      "ar": "عاصفة",
+      "kategori": "Cuaca"
+    },
+    {
+      "id": "petir",
+      "en": "thunder",
+      "ar": "رعد",
+      "kategori": "Cuaca"
+    },
+    {
+      "id": "kilat",
+      "en": "lightning",
+      "ar": "برق",
+      "kategori": "Cuaca"
+    },
+    {
+      "id": "matahari",
+      "en": "sun",
+      "ar": "شمس",
+      "kategori": "Cuaca"
+    },
+    {
+      "id": "awan",
+      "en": "cloud",
+      "ar": "سحابة",
+      "kategori": "Cuaca"
+    },
+    {
+      "id": "kabut",
+      "en": "fog",
+      "ar": "ضباب",
+      "kategori": "Cuaca"
+    },
+    {
+      "id": "pelangi",
+      "en": "rainbow",
+      "ar": "قوس قزح",
+      "kategori": "Cuaca"
+    },
+    {
+      "id": "lembab",
+      "en": "humid",
+      "ar": "رطب",
+      "kategori": "Cuaca"
+    },
+    {
+      "id": "kering",
+      "en": "dry",
+      "ar": "جاف",
+      "kategori": "Cuaca"
+    },
+    {
+      "id": "banjir",
+      "en": "flood",
+      "ar": "فيضان",
+      "kategori": "Cuaca"
+    },
+    {
+      "id": "musim",
+      "en": "season",
+      "ar": "فصل",
+      "kategori": "Cuaca"
+    },
+    {
+      "id": "musim dingin",
+      "en": "winter",
+      "ar": "شتاء",
+      "kategori": "Cuaca"
+    },
+    {
+      "id": "musim panas",
+      "en": "summer",
+      "ar": "صيف",
+      "kategori": "Cuaca"
+    },
+    {
+      "id": "musim gugur",
+      "en": "autumn",
+      "ar": "خريف",
+      "kategori": "Cuaca"
+    },
+    {
+      "id": "musim semi",
+      "en": "spring",
+      "ar": "ربيع",
+      "kategori": "Cuaca"
+    },
+    {
+      "id": "daerah tropis",
+      "en": "tropical area",
+      "ar": "منطقة استوائية",
+      "kategori": "Cuaca"
+    },
+    {
+      "id": "cuaca ekstrem",
+      "en": "extreme weather",
+      "ar": "طقس قاسي",
+      "kategori": "Cuaca"
+    },
+    {
+      "id": "transportasi",
+      "en": "transportation",
+      "ar": "نقل",
+      "kategori": "Transportasi"
+    },
+    {
+      "id": "mobil",
+      "en": "car",
+      "ar": "سيارة",
+      "kategori": "Transportasi"
+    },
+    {
+      "id": "motor",
+      "en": "motorcycle",
+      "ar": "دراجة نارية",
+      "kategori": "Transportasi"
+    },
+    {
+      "id": "sepeda",
+      "en": "bicycle",
+      "ar": "دراجة",
+      "kategori": "Transportasi"
+    },
+    {
+      "id": "bus",
+      "en": "bus",
+      "ar": "حافلة",
+      "kategori": "Transportasi"
+    },
+    {
+      "id": "kereta",
+      "en": "train",
+      "ar": "قطار",
+      "kategori": "Transportasi"
+    },
+    {
+      "id": "pesawat",
+      "en": "airplane",
+      "ar": "طائرة",
+      "kategori": "Transportasi"
+    },
+    {
+      "id": "kapal",
+      "en": "ship",
+      "ar": "سفينة",
+      "kategori": "Transportasi"
+    },
+    {
+      "id": "taksi",
+      "en": "taxi",
+      "ar": "سيارة أجرة",
+      "kategori": "Transportasi"
+    },
+    {
+      "id": "angkot",
+      "en": "public minivan",
+      "ar": "ميكروباص",
+      "kategori": "Transportasi"
+    },
+    {
+      "id": "truk",
+      "en": "truck",
+      "ar": "شاحنة",
+      "kategori": "Transportasi"
+    },
+    {
+      "id": "jalan",
+      "en": "road",
+      "ar": "طريق",
+      "kategori": "Transportasi"
+    },
+    {
+      "id": "jalan tol",
+      "en": "toll road",
+      "ar": "طريق سريع",
+      "kategori": "Transportasi"
+    },
+    {
+      "id": "bandara",
+      "en": "airport",
+      "ar": "مطار",
+      "kategori": "Transportasi"
+    },
+    {
+      "id": "pelabuhan",
+      "en": "harbor",
+      "ar": "ميناء",
+      "kategori": "Transportasi"
+    },
+    {
+      "id": "terminal",
+      "en": "terminal",
+      "ar": "محطة",
+      "kategori": "Transportasi"
+    },
+    {
+      "id": "parkir",
+      "en": "parking",
+      "ar": "موقف سيارات",
+      "kategori": "Transportasi"
+    },
+    {
+      "id": "lampu lalu lintas",
+      "en": "traffic light",
+      "ar": "إشارة المرور",
+      "kategori": "Transportasi"
+    },
+    {
+      "id": "setir",
+      "en": "steering wheel",
+      "ar": "مقود",
+      "kategori": "Transportasi"
+    },
+    {
+      "id": "helm",
+      "en": "helmet",
+      "ar": "خوذة",
+      "kategori": "Transportasi"
+    },
+    {
+      "id": "benda",
+      "en": "object",
+      "ar": "شيء",
+      "kategori": "Benda"
+    },
+    {
+      "id": "meja",
+      "en": "table",
+      "ar": "طاولة",
+      "kategori": "Benda"
+    },
+    {
+      "id": "kursi",
+      "en": "chair",
+      "ar": "كرسي",
+      "kategori": "Benda"
+    },
+    {
+      "id": "lampu",
+      "en": "lamp",
+      "ar": "مصباح",
+      "kategori": "Benda"
+    },
+    {
+      "id": "jam",
+      "en": "clock",
+      "ar": "ساعة",
+      "kategori": "Benda"
+    },
+    {
+      "id": "pintu",
+      "en": "door",
+      "ar": "باب",
+      "kategori": "Benda"
+    },
+    {
+      "id": "jendela",
+      "en": "window",
+      "ar": "نافذة",
+      "kategori": "Benda"
+    },
+    {
+      "id": "kompor",
+      "en": "stove",
+      "ar": "موقد",
+      "kategori": "Benda"
+    },
+    {
+      "id": "kulkas",
+      "en": "refrigerator",
+      "ar": "ثلاجة",
+      "kategori": "Benda"
+    },
+    {
+      "id": "televisi",
+      "en": "television",
+      "ar": "تلفاز",
+      "kategori": "Benda"
+    },
+    {
+      "id": "kalkulator",
+      "en": "calculator",
+      "ar": "آلة حاسبة",
+      "kategori": "Benda"
+    },
+    {
+      "id": "kamera",
+      "en": "camera",
+      "ar": "كاميرا",
+      "kategori": "Benda"
+    },
+    {
+      "id": "buku",
+      "en": "book",
+      "ar": "كتاب",
+      "kategori": "Benda"
+    },
+    {
+      "id": "pena",
+      "en": "pen",
+      "ar": "قلم",
+      "kategori": "Benda"
+    },
+    {
+      "id": "penggaris",
+      "en": "ruler",
+      "ar": "مسطرة",
+      "kategori": "Benda"
+    },
+    {
+      "id": "gunting",
+      "en": "scissors",
+      "ar": "مقص",
+      "kategori": "Benda"
+    },
+    {
+      "id": "panci",
+      "en": "pan",
+      "ar": "قدر",
+      "kategori": "Benda"
+    },
+    {
+      "id": "sendok",
+      "en": "spoon",
+      "ar": "ملعقة",
+      "kategori": "Benda"
+    },
+    {
+      "id": "garpu",
+      "en": "fork",
+      "ar": "شوكة",
+      "kategori": "Benda"
+    },
+    {
+      "id": "pisau",
+      "en": "knife",
+      "ar": "سكين",
+      "kategori": "Benda"
+    },
+    {
+      "id": "warna",
+      "en": "color",
+      "ar": "لون",
+      "kategori": "Warna"
+    },
+    {
+      "id": "merah",
+      "en": "red",
+      "ar": "أحمر",
+      "kategori": "Warna"
+    },
+    {
+      "id": "biru",
+      "en": "blue",
+      "ar": "أزرق",
+      "kategori": "Warna"
+    },
+    {
+      "id": "kuning",
+      "en": "yellow",
+      "ar": "أصفر",
+      "kategori": "Warna"
+    },
+    {
+      "id": "hijau",
+      "en": "green",
+      "ar": "أخضر",
+      "kategori": "Warna"
+    },
+    {
+      "id": "putih",
+      "en": "white",
+      "ar": "أبيض",
+      "kategori": "Warna"
+    },
+    {
+      "id": "hitam",
+      "en": "black",
+      "ar": "أسود",
+      "kategori": "Warna"
+    },
+    {
+      "id": "cokelat",
+      "en": "brown",
+      "ar": "بني",
+      "kategori": "Warna"
+    },
+    {
+      "id": "abu-abu",
+      "en": "gray",
+      "ar": "رمادي",
+      "kategori": "Warna"
+    },
+    {
+      "id": "ungu",
+      "en": "purple",
+      "ar": "بنفسجي",
+      "kategori": "Warna"
+    },
+    {
+      "id": "jingga",
+      "en": "orange",
+      "ar": "برتقالي",
+      "kategori": "Warna"
+    },
+    {
+      "id": "merah muda",
+      "en": "pink",
+      "ar": "وردي",
+      "kategori": "Warna"
+    },
+    {
+      "id": "emas",
+      "en": "gold",
+      "ar": "ذهبي",
+      "kategori": "Warna"
+    },
+    {
+      "id": "perak",
+      "en": "silver",
+      "ar": "فضي",
+      "kategori": "Warna"
+    },
+    {
+      "id": "biru laut",
+      "en": "navy blue",
+      "ar": "أزرق بحري",
+      "kategori": "Warna"
+    },
+    {
+      "id": "biru muda",
+      "en": "light blue",
+      "ar": "أزرق فاتح",
+      "kategori": "Warna"
+    },
+    {
+      "id": "krem",
+      "en": "cream",
+      "ar": "كريمي",
+      "kategori": "Warna"
+    },
+    {
+      "id": "marun",
+      "en": "maroon",
+      "ar": "خمري",
+      "kategori": "Warna"
+    },
+    {
+      "id": "turquoise",
+      "en": "turquoise",
+      "ar": "تركواز",
+      "kategori": "Warna"
+    },
+    {
+      "id": "pelangi",
+      "en": "rainbow",
+      "ar": "قوس قزح",
+      "kategori": "Warna"
+    },
+    {
+      "id": "olahraga",
+      "en": "sport",
+      "ar": "رياضة",
+      "kategori": "Olahraga"
+    },
+    {
+      "id": "sepak bola",
+      "en": "football",
+      "ar": "كرة القدم",
+      "kategori": "Olahraga"
+    },
+    {
+      "id": "basket",
+      "en": "basketball",
+      "ar": "كرة السلة",
+      "kategori": "Olahraga"
+    },
+    {
+      "id": "voli",
+      "en": "volleyball",
+      "ar": "كرة الطائرة",
+      "kategori": "Olahraga"
+    },
+    {
+      "id": "renang",
+      "en": "swimming",
+      "ar": "سباحة",
+      "kategori": "Olahraga"
+    },
+    {
+      "id": "lari",
+      "en": "running",
+      "ar": "جري",
+      "kategori": "Olahraga"
+    },
+    {
+      "id": "bersepeda",
+      "en": "cycling",
+      "ar": "ركوب الدراجات",
+      "kategori": "Olahraga"
+    },
+    {
+      "id": "badminton",
+      "en": "badminton",
+      "ar": "تنس الريشة",
+      "kategori": "Olahraga"
+    },
+    {
+      "id": "tenis",
+      "en": "tennis",
+      "ar": "تنس",
+      "kategori": "Olahraga"
+    },
+    {
+      "id": "tinju",
+      "en": "boxing",
+      "ar": "ملاكمة",
+      "kategori": "Olahraga"
+    },
+    {
+      "id": "yoga",
+      "en": "yoga",
+      "ar": "يوغا",
+      "kategori": "Olahraga"
+    },
+    {
+      "id": "senam",
+      "en": "gymnastics",
+      "ar": "جمباز",
+      "kategori": "Olahraga"
+    },
+    {
+      "id": "angkat besi",
+      "en": "weightlifting",
+      "ar": "رفع الأثقال",
+      "kategori": "Olahraga"
+    },
+    {
+      "id": "menyelam",
+      "en": "diving",
+      "ar": "غوص",
+      "kategori": "Olahraga"
+    },
+    {
+      "id": "panahan",
+      "en": "archery",
+      "ar": "رماية",
+      "kategori": "Olahraga"
+    },
+    {
+      "id": "berenang",
+      "en": "swim",
+      "ar": "يسبح",
+      "kategori": "Olahraga"
+    },
+    {
+      "id": "berjalan",
+      "en": "walking",
+      "ar": "مشي",
+      "kategori": "Olahraga"
+    },
+    {
+      "id": "latihan",
+      "en": "training",
+      "ar": "تدريب",
+      "kategori": "Olahraga"
+    },
+    {
+      "id": "pelatih",
+      "en": "coach",
+      "ar": "مدرب",
+      "kategori": "Olahraga"
+    },
+    {
+      "id": "pertandingan",
+      "en": "match",
+      "ar": "مباراة",
+      "kategori": "Olahraga"
+    },
+    {
+      "id": "keluarga",
+      "en": "family",
+      "ar": "عائلة",
+      "kategori": "Keluarga"
+    },
+    {
+      "id": "ayah",
+      "en": "father",
+      "ar": "أب",
+      "kategori": "Keluarga"
+    },
+    {
+      "id": "ibu",
+      "en": "mother",
+      "ar": "أم",
+      "kategori": "Keluarga"
+    },
+    {
+      "id": "anak",
+      "en": "child",
+      "ar": "طفل",
+      "kategori": "Keluarga"
+    },
+    {
+      "id": "kakak laki-laki",
+      "en": "older brother",
+      "ar": "أخ أكبر",
+      "kategori": "Keluarga"
+    },
+    {
+      "id": "kakak perempuan",
+      "en": "older sister",
+      "ar": "أخت أكبر",
+      "kategori": "Keluarga"
+    },
+    {
+      "id": "adik laki-laki",
+      "en": "younger brother",
+      "ar": "أخ أصغر",
+      "kategori": "Keluarga"
+    },
+    {
+      "id": "adik perempuan",
+      "en": "younger sister",
+      "ar": "أخت أصغر",
+      "kategori": "Keluarga"
+    },
+    {
+      "id": "kakek",
+      "en": "grandfather",
+      "ar": "جد",
+      "kategori": "Keluarga"
+    },
+    {
+      "id": "nenek",
+      "en": "grandmother",
+      "ar": "جدة",
+      "kategori": "Keluarga"
+    },
+    {
+      "id": "paman",
+      "en": "uncle",
+      "ar": "عم / خال",
+      "kategori": "Keluarga"
+    },
+    {
+      "id": "bibi",
+      "en": "aunt",
+      "ar": "عمة / خالة",
+      "kategori": "Keluarga"
+    },
+    {
+      "id": "sepupu",
+      "en": "cousin",
+      "ar": "ابن العم / ابنة العم",
+      "kategori": "Keluarga"
+    },
+    {
+      "id": "suami",
+      "en": "husband",
+      "ar": "زوج",
+      "kategori": "Keluarga"
+    },
+    {
+      "id": "istri",
+      "en": "wife",
+      "ar": "زوجة",
+      "kategori": "Keluarga"
+    },
+    {
+      "id": "keponakan laki-laki",
+      "en": "nephew",
+      "ar": "ابن الأخ / ابن الأخت",
+      "kategori": "Keluarga"
+    },
+    {
+      "id": "keponakan perempuan",
+      "en": "niece",
+      "ar": "ابنة الأخ / ابنة الأخت",
+      "kategori": "Keluarga"
+    },
+    {
+      "id": "keluarga inti",
+      "en": "nuclear family",
+      "ar": "أسرة نووية",
+      "kategori": "Keluarga"
+    },
+    {
+      "id": "keluarga besar",
+      "en": "extended family",
+      "ar": "عائلة ممتدة",
+      "kategori": "Keluarga"
+    },
+    {
+      "id": "keluarga bahagia",
+      "en": "happy family",
+      "ar": "أسرة سعيدة",
+      "kategori": "Keluarga"
+    },
+    {
+      "id": "komputer",
+      "en": "computer",
+      "ar": "حاسوب",
+      "kategori": "Teknologi"
+    },
+    {
+      "id": "laptop",
+      "en": "laptop",
+      "ar": "حاسوب محمول",
+      "kategori": "Teknologi"
+    },
+    {
+      "id": "ponsel",
+      "en": "phone",
+      "ar": "هاتف",
+      "kategori": "Teknologi"
+    },
+    {
+      "id": "smartphone",
+      "en": "smartphone",
+      "ar": "هاتف ذكي",
+      "kategori": "Teknologi"
+    },
+    {
+      "id": "tablet",
+      "en": "tablet",
+      "ar": "جهاز لوحي",
+      "kategori": "Teknologi"
+    },
+    {
+      "id": "jaringan",
+      "en": "network",
+      "ar": "شبكة",
+      "kategori": "Teknologi"
+    },
+    {
+      "id": "internet",
+      "en": "internet",
+      "ar": "إنترنت",
+      "kategori": "Teknologi"
+    },
+    {
+      "id": "router",
+      "en": "router",
+      "ar": "موجِّه",
+      "kategori": "Teknologi"
+    },
+    {
+      "id": "server",
+      "en": "server",
+      "ar": "خادم",
+      "kategori": "Teknologi"
+    },
+    {
+      "id": "cloud",
+      "en": "cloud",
+      "ar": "سحابة",
+      "kategori": "Teknologi"
+    },
+    {
+      "id": "perangkat lunak",
+      "en": "software",
+      "ar": "برمجيات",
+      "kategori": "Teknologi"
+    },
+    {
+      "id": "perangkat keras",
+      "en": "hardware",
+      "ar": "معدات",
+      "kategori": "Teknologi"
+    },
+    {
+      "id": "basis data",
+      "en": "database",
+      "ar": "قاعدة بيانات",
+      "kategori": "Teknologi"
+    },
+    {
+      "id": "sistem operasi",
+      "en": "operating system",
+      "ar": "نظام تشغيل",
+      "kategori": "Teknologi"
+    },
+    {
+      "id": "aplikasi",
+      "en": "application",
+      "ar": "تطبيق",
+      "kategori": "Teknologi"
+    },
+    {
+      "id": "program",
+      "en": "program",
+      "ar": "برنامج",
+      "kategori": "Teknologi"
+    },
+    {
+      "id": "kode",
+      "en": "code",
+      "ar": "شفرة",
+      "kategori": "Teknologi"
+    },
+    {
+      "id": "bahasa pemrograman",
+      "en": "programming language",
+      "ar": "لغة برمجة",
+      "kategori": "Teknologi"
+    },
+    {
+      "id": "debugging",
+      "en": "debugging",
+      "ar": "تنقيح",
+      "kategori": "Teknologi"
+    },
+    {
+      "id": "keamanan siber",
+      "en": "cyber security",
+      "ar": "أمن سيبراني",
+      "kategori": "Teknologi"
+    },
+    {
+      "id": "enkripsi",
+      "en": "encryption",
+      "ar": "تشفير",
+      "kategori": "Teknologi"
+    },
+    {
+      "id": "backup",
+      "en": "backup",
+      "ar": "نسخة احتياطية",
+      "kategori": "Teknologi"
+    },
+    {
+      "id": "login",
+      "en": "login",
+      "ar": "تسجيل الدخول",
+      "kategori": "Teknologi"
+    },
+    {
+      "id": "logout",
+      "en": "logout",
+      "ar": "تسجيل الخروج",
+      "kategori": "Teknologi"
+    },
+    {
+      "id": "kata sandi",
+      "en": "password",
+      "ar": "كلمة المرور",
+      "kategori": "Teknologi"
+    },
+    {
+      "id": "akun",
+      "en": "account",
+      "ar": "حساب",
+      "kategori": "Teknologi"
+    },
+    {
+      "id": "pengguna",
+      "en": "user",
+      "ar": "مستخدم",
+      "kategori": "Teknologi"
+    },
+    {
+      "id": "administrator",
+      "en": "administrator",
+      "ar": "مسؤول",
+      "kategori": "Teknologi"
+    },
+    {
+      "id": "antarmuka",
+      "en": "interface",
+      "ar": "واجهة",
+      "kategori": "Teknologi"
+    },
+    {
+      "id": "sekolah",
+      "en": "school",
+      "ar": "مدرسة",
+      "kategori": "Pendidikan"
+    },
+    {
+      "id": "kampus",
+      "en": "campus",
+      "ar": "حرم جامعي",
+      "kategori": "Pendidikan"
+    },
+    {
+      "id": "universitas",
+      "en": "university",
+      "ar": "جامعة",
+      "kategori": "Pendidikan"
+    },
+    {
+      "id": "fakultas",
+      "en": "faculty",
+      "ar": "كلية",
+      "kategori": "Pendidikan"
+    },
+    {
+      "id": "jurusan",
+      "en": "major",
+      "ar": "تخصص",
+      "kategori": "Pendidikan"
+    },
+    {
+      "id": "kelas",
+      "en": "class",
+      "ar": "صف",
+      "kategori": "Pendidikan"
+    },
+    {
+      "id": "ruang kelas",
+      "en": "classroom",
+      "ar": "قاعة درس",
+      "kategori": "Pendidikan"
+    },
+    {
+      "id": "guru",
+      "en": "teacher",
+      "ar": "معلّم",
+      "kategori": "Pendidikan"
+    },
+    {
+      "id": "dosen",
+      "en": "lecturer",
+      "ar": "محاضر",
+      "kategori": "Pendidikan"
+    },
+    {
+      "id": "mahasiswa",
+      "en": "student",
+      "ar": "طالب جامعي",
+      "kategori": "Pendidikan"
+    },
+    {
+      "id": "murid",
+      "en": "student",
+      "ar": "طالب",
+      "kategori": "Pendidikan"
+    },
+    {
+      "id": "pelajaran",
+      "en": "lesson",
+      "ar": "درس",
+      "kategori": "Pendidikan"
+    },
+    {
+      "id": "materi",
+      "en": "material",
+      "ar": "مادة",
+      "kategori": "Pendidikan"
+    },
+    {
+      "id": "tugas",
+      "en": "assignment",
+      "ar": "واجب",
+      "kategori": "Pendidikan"
+    },
+    {
+      "id": "kuis",
+      "en": "quiz",
+      "ar": "اختبار قصير",
+      "kategori": "Pendidikan"
+    },
+    {
+      "id": "ujian",
+      "en": "exam",
+      "ar": "امتحان",
+      "kategori": "Pendidikan"
+    },
+    {
+      "id": "nilai",
+      "en": "grade",
+      "ar": "علامة",
+      "kategori": "Pendidikan"
+    },
+    {
+      "id": "rapor",
+      "en": "report card",
+      "ar": "كشف علامات",
+      "kategori": "Pendidikan"
+    },
+    {
+      "id": "perpustakaan",
+      "en": "library",
+      "ar": "مكتبة",
+      "kategori": "Pendidikan"
+    },
+    {
+      "id": "laboratorium",
+      "en": "laboratory",
+      "ar": "مختبر",
+      "kategori": "Pendidikan"
+    },
+    {
+      "id": "presentasi",
+      "en": "presentation",
+      "ar": "عرض تقديمي",
+      "kategori": "Pendidikan"
+    },
+    {
+      "id": "skripsi",
+      "en": "thesis",
+      "ar": "بحث التخرج",
+      "kategori": "Pendidikan"
+    },
+    {
+      "id": "jadwal",
+      "en": "schedule",
+      "ar": "جدول",
+      "kategori": "Pendidikan"
+    },
+    {
+      "id": "absensi",
+      "en": "attendance",
+      "ar": "حضور",
+      "kategori": "Pendidikan"
+    },
+    {
+      "id": "beasiswa",
+      "en": "scholarship",
+      "ar": "منحة دراسية",
+      "kategori": "Pendidikan"
+    },
+    {
+      "id": "rumah",
+      "en": "house",
+      "ar": "بيت",
+      "kategori": "Rumah"
+    },
+    {
+      "id": "kamar",
+      "en": "room",
+      "ar": "غرفة",
+      "kategori": "Rumah"
+    },
+    {
+      "id": "kamar tidur",
+      "en": "bedroom",
+      "ar": "غرفة نوم",
+      "kategori": "Rumah"
+    },
+    {
+      "id": "kamar mandi",
+      "en": "bathroom",
+      "ar": "حمّام",
+      "kategori": "Rumah"
+    },
+    {
+      "id": "dapur",
+      "en": "kitchen",
+      "ar": "مطبخ",
+      "kategori": "Rumah"
+    },
+    {
+      "id": "ruang tamu",
+      "en": "living room",
+      "ar": "غرفة الجلوس",
+      "kategori": "Rumah"
+    },
+    {
+      "id": "ruang keluarga",
+      "en": "family room",
+      "ar": "غرفة العائلة",
+      "kategori": "Rumah"
+    },
+    {
+      "id": "pintu",
+      "en": "door",
+      "ar": "باب",
+      "kategori": "Rumah"
+    },
+    {
+      "id": "jendela",
+      "en": "window",
+      "ar": "نافذة",
+      "kategori": "Rumah"
+    },
+    {
+      "id": "lemari",
+      "en": "closet",
+      "ar": "خزانة",
+      "kategori": "Rumah"
+    },
+    {
+      "id": "meja",
+      "en": "table",
+      "ar": "طاولة",
+      "kategori": "Rumah"
+    },
+    {
+      "id": "kursi",
+      "en": "chair",
+      "ar": "كرسي",
+      "kategori": "Rumah"
+    },
+    {
+      "id": "sofa",
+      "en": "sofa",
+      "ar": "أريكة",
+      "kategori": "Rumah"
+    },
+    {
+      "id": "lantai",
+      "en": "floor",
+      "ar": "أرضية",
+      "kategori": "Rumah"
+    },
+    {
+      "id": "atap",
+      "en": "roof",
+      "ar": "سقف",
+      "kategori": "Rumah"
+    },
+    {
+      "id": "dinding",
+      "en": "wall",
+      "ar": "جدار",
+      "kategori": "Rumah"
+    },
+    {
+      "id": "taman",
+      "en": "garden",
+      "ar": "حديقة",
+      "kategori": "Rumah"
+    },
+    {
+      "id": "garasi",
+      "en": "garage",
+      "ar": "كراج",
+      "kategori": "Rumah"
+    },
+    {
+      "id": "halaman",
+      "en": "yard",
+      "ar": "ساحة",
+      "kategori": "Rumah"
+    },
+    {
+      "id": "lampu",
+      "en": "lamp",
+      "ar": "مصباح",
+      "kategori": "Rumah"
+    },
+    {
+      "id": "buku",
+      "en": "book",
+      "ar": "كتاب",
+      "kategori": "Benda"
+    },
+    {
+      "id": "pena",
+      "en": "pen",
+      "ar": "قلم",
+      "kategori": "Benda"
+    },
+    {
+      "id": "pensil",
+      "en": "pencil",
+      "ar": "قلم رصاص",
+      "kategori": "Benda"
+    },
+    {
+      "id": "penghapus",
+      "en": "eraser",
+      "ar": "ممحاة",
+      "kategori": "Benda"
+    },
+    {
+      "id": "kertas",
+      "en": "paper",
+      "ar": "ورقة",
+      "kategori": "Benda"
+    },
+    {
+      "id": "tas",
+      "en": "bag",
+      "ar": "حقيبة",
+      "kategori": "Benda"
+    },
+    {
+      "id": "jam tangan",
+      "en": "watch",
+      "ar": "ساعة يد",
+      "kategori": "Benda"
+    },
+    {
+      "id": "dompet",
+      "en": "wallet",
+      "ar": "محفظة",
+      "kategori": "Benda"
+    },
+    {
+      "id": "kunci",
+      "en": "key",
+      "ar": "مفتاح",
+      "kategori": "Benda"
+    },
+    {
+      "id": "kacamata",
+      "en": "glasses",
+      "ar": "نظارات",
+      "kategori": "Benda"
+    },
+    {
+      "id": "botol",
+      "en": "bottle",
+      "ar": "زجاجة",
+      "kategori": "Benda"
+    },
+    {
+      "id": "gelas",
+      "en": "glass",
+      "ar": "كأس",
+      "kategori": "Benda"
+    },
+    {
+      "id": "piring",
+      "en": "plate",
+      "ar": "صحن",
+      "kategori": "Benda"
+    },
+    {
+      "id": "sendok",
+      "en": "spoon",
+      "ar": "ملعقة",
+      "kategori": "Benda"
+    },
+    {
+      "id": "garpu",
+      "en": "fork",
+      "ar": "شوكة",
+      "kategori": "Benda"
+    },
+    {
+      "id": "pisau",
+      "en": "knife",
+      "ar": "سكين",
+      "kategori": "Benda"
+    },
+    {
+      "id": "makan",
+      "en": "eat",
+      "ar": "يأكل",
+      "kategori": "Kegiatan"
+    },
+    {
+      "id": "minum",
+      "en": "drink",
+      "ar": "يشرب",
+      "kategori": "Kegiatan"
+    },
+    {
+      "id": "sarapan",
+      "en": "breakfast",
+      "ar": "فطور",
+      "kategori": "Makanan"
+    },
+    {
+      "id": "makan siang",
+      "en": "lunch",
+      "ar": "غداء",
+      "kategori": "Makanan"
+    },
+    {
+      "id": "makan malam",
+      "en": "dinner",
+      "ar": "عشاء",
+      "kategori": "Makanan"
+    },
+    {
+      "id": "nasi",
+      "en": "rice",
+      "ar": "أرز",
+      "kategori": "Makanan"
+    },
+    {
+      "id": "roti",
+      "en": "bread",
+      "ar": "خبز",
+      "kategori": "Makanan"
+    },
+    {
+      "id": "mie",
+      "en": "noodles",
+      "ar": "معكرونة",
+      "kategori": "Makanan"
+    },
+    {
+      "id": "sup",
+      "en": "soup",
+      "ar": "حساء",
+      "kategori": "Makanan"
+    },
+    {
+      "id": "daging",
+      "en": "meat",
+      "ar": "لحم",
+      "kategori": "Makanan"
+    },
+    {
+      "id": "ayam",
+      "en": "chicken",
+      "ar": "دجاج",
+      "kategori": "Makanan"
+    },
+    {
+      "id": "ikan",
+      "en": "fish",
+      "ar": "سمك",
+      "kategori": "Makanan"
+    },
+    {
+      "id": "telur",
+      "en": "egg",
+      "ar": "بيض",
+      "kategori": "Makanan"
+    },
+    {
+      "id": "sayur",
+      "en": "vegetable",
+      "ar": "خضروات",
+      "kategori": "Makanan"
+    },
+    {
+      "id": "buah",
+      "en": "fruit",
+      "ar": "فاكهة",
+      "kategori": "Makanan"
+    },
+    {
+      "id": "apel",
+      "en": "apple",
+      "ar": "تفاح",
+      "kategori": "Makanan"
+    },
+    {
+      "id": "pisang",
+      "en": "banana",
+      "ar": "موز",
+      "kategori": "Makanan"
+    },
+    {
+      "id": "jeruk",
+      "en": "orange",
+      "ar": "برتقال",
+      "kategori": "Makanan"
+    },
+    {
+      "id": "mangga",
+      "en": "mango",
+      "ar": "مانجو",
+      "kategori": "Makanan"
+    },
+    {
+      "id": "kopi",
+      "en": "coffee",
+      "ar": "قهوة",
+      "kategori": "Minuman"
+    },
+    {
+      "id": "teh",
+      "en": "tea",
+      "ar": "شاي",
+      "kategori": "Minuman"
+    },
+    {
+      "id": "air",
+      "en": "water",
+      "ar": "ماء",
+      "kategori": "Minuman"
+    },
+    {
+      "id": "susu",
+      "en": "milk",
+      "ar": "حليب",
+      "kategori": "Minuman"
+    },
+    {
+      "id": "jus",
+      "en": "juice",
+      "ar": "عصير",
+      "kategori": "Minuman"
+    },
+    {
+      "id": "kepala",
+      "en": "head",
+      "ar": "رأس",
+      "kategori": "Tubuh"
+    },
+    {
+      "id": "rambut",
+      "en": "hair",
+      "ar": "شعر",
+      "kategori": "Tubuh"
+    },
+    {
+      "id": "mata",
+      "en": "eyes",
+      "ar": "عينان",
+      "kategori": "Tubuh"
+    },
+    {
+      "id": "telinga",
+      "en": "ears",
+      "ar": "أذنان",
+      "kategori": "Tubuh"
+    },
+    {
+      "id": "hidung",
+      "en": "nose",
+      "ar": "أنف",
+      "kategori": "Tubuh"
+    },
+    {
+      "id": "mulut",
+      "en": "mouth",
+      "ar": "فم",
+      "kategori": "Tubuh"
+    },
+    {
+      "id": "gigi",
+      "en": "teeth",
+      "ar": "أسنان",
+      "kategori": "Tubuh"
+    },
+    {
+      "id": "tangan",
+      "en": "hand",
+      "ar": "يد",
+      "kategori": "Tubuh"
+    },
+    {
+      "id": "lengan",
+      "en": "arm",
+      "ar": "ذراع",
+      "kategori": "Tubuh"
+    },
+    {
+      "id": "kaki",
+      "en": "leg",
+      "ar": "ساق",
+      "kategori": "Tubuh"
+    },
+    {
+      "id": "telapak kaki",
+      "en": "foot",
+      "ar": "قدم",
+      "kategori": "Tubuh"
+    },
+    {
+      "id": "punggung",
+      "en": "back",
+      "ar": "ظهر",
+      "kategori": "Tubuh"
+    },
+    {
+      "id": "perut",
+      "en": "stomach",
+      "ar": "معدة",
+      "kategori": "Tubuh"
+    },
+    {
+      "id": "kesehatan",
+      "en": "health",
+      "ar": "صحة",
+      "kategori": "Kesehatan"
+    },
+    {
+      "id": "sakit",
+      "en": "sick",
+      "ar": "مريض",
+      "kategori": "Kesehatan"
+    },
+    {
+      "id": "demam",
+      "en": "fever",
+      "ar": "حمى",
+      "kategori": "Kesehatan"
+    },
+    {
+      "id": "batuk",
+      "en": "cough",
+      "ar": "سعال",
+      "kategori": "Kesehatan"
+    },
+    {
+      "id": "flu",
+      "en": "flu",
+      "ar": "إنفلونزا",
+      "kategori": "Kesehatan"
+    },
+    {
+      "id": "obat",
+      "en": "medicine",
+      "ar": "دواء",
+      "kategori": "Kesehatan"
+    },
+    {
+      "id": "dokter",
+      "en": "doctor",
+      "ar": "طبيب",
+      "kategori": "Kesehatan"
+    },
+    {
+      "id": "rumah sakit",
+      "en": "hospital",
+      "ar": "مستشفى",
+      "kategori": "Kesehatan"
+    },
+    {
+      "id": "hari",
+      "en": "day",
+      "ar": "يوم",
+      "kategori": "Waktu"
+    },
+    {
+      "id": "malam",
+      "en": "night",
+      "ar": "ليل",
+      "kategori": "Waktu"
+    },
+    {
+      "id": "pagi",
+      "en": "morning",
+      "ar": "صباح",
+      "kategori": "Waktu"
+    },
+    {
+      "id": "siang",
+      "en": "noon",
+      "ar": "ظهر",
+      "kategori": "Waktu"
+    },
+    {
+      "id": "sore",
+      "en": "afternoon",
+      "ar": "عصر",
+      "kategori": "Waktu"
+    },
+    {
+      "id": "kemarin",
+      "en": "yesterday",
+      "ar": "أمس",
+      "kategori": "Waktu"
+    },
+    {
+      "id": "hari ini",
+      "en": "today",
+      "ar": "اليوم",
+      "kategori": "Waktu"
+    },
+    {
+      "id": "besok",
+      "en": "tomorrow",
+      "ar": "غدًا",
+      "kategori": "Waktu"
+    },
+    {
+      "id": "minggu",
+      "en": "week",
+      "ar": "أسبوع",
+      "kategori": "Waktu"
+    },
+    {
+      "id": "bulan",
+      "en": "month",
+      "ar": "شهر",
+      "kategori": "Waktu"
+    },
+    {
+      "id": "tahun",
+      "en": "year",
+      "ar": "سنة",
+      "kategori": "Waktu"
+    },
+    {
+      "id": "jam",
+      "en": "hour",
+      "ar": "ساعة",
+      "kategori": "Waktu"
+    },
+    {
+      "id": "menit",
+      "en": "minute",
+      "ar": "دقيقة",
+      "kategori": "Waktu"
+    },
+    {
+      "id": "detik",
+      "en": "second",
+      "ar": "ثانية",
+      "kategori": "Waktu"
+    },
+    {
+      "id": "pekerjaan",
+      "en": "job",
+      "ar": "وظيفة",
+      "kategori": "Pekerjaan"
+    },
+    {
+      "id": "pegawai",
+      "en": "employee",
+      "ar": "موظف",
+      "kategori": "Pekerjaan"
+    },
+    {
+      "id": "atasan",
+      "en": "supervisor",
+      "ar": "مشرف",
+      "kategori": "Pekerjaan"
+    },
+    {
+      "id": "rekan kerja",
+      "en": "colleague",
+      "ar": "زميل",
+      "kategori": "Pekerjaan"
+    },
+    {
+      "id": "rapat",
+      "en": "meeting",
+      "ar": "اجتماع",
+      "kategori": "Pekerjaan"
+    },
+    {
+      "id": "proyek",
+      "en": "project",
+      "ar": "مشروع",
+      "kategori": "Pekerjaan"
+    },
+    {
+      "id": "deadline",
+      "en": "deadline",
+      "ar": "موعد نهائي",
+      "kategori": "Pekerjaan"
+    },
+    {
+      "id": "gaji",
+      "en": "salary",
+      "ar": "راتب",
+      "kategori": "Pekerjaan"
+    },
+    {
+      "id": "kantor",
+      "en": "office",
+      "ar": "مكتب",
+      "kategori": "Pekerjaan"
+    },
+    {
+      "id": "organisasi",
+      "en": "organization",
+      "ar": "منظمة",
+      "kategori": "Organisasi"
+    },
+    {
+      "id": "pengurus",
+      "en": "committee",
+      "ar": "لجنة",
+      "kategori": "Organisasi"
+    },
+    {
+      "id": "anggota",
+      "en": "member",
+      "ar": "عضو",
+      "kategori": "Organisasi"
+    },
+    {
+      "id": "notulen",
+      "en": "minutes taker",
+      "ar": "كاتب المحضر",
+      "kategori": "Organisasi"
+    },
+    {
+      "id": "agenda",
+      "en": "agenda",
+      "ar": "جدول الأعمال",
+      "kategori": "Organisasi"
+    },
+    {
+      "id": "program kerja",
+      "en": "work program",
+      "ar": "برنامج عمل",
+      "kategori": "Organisasi"
+    },
+    {
+      "id": "masjid",
+      "en": "mosque",
+      "ar": "مسجد",
+      "kategori": "Ibadah"
+    },
+    {
+      "id": "salat",
+      "en": "prayer",
+      "ar": "صلاة",
+      "kategori": "Ibadah"
+    },
+    {
+      "id": "wudu",
+      "en": "ablution",
+      "ar": "وضوء",
+      "kategori": "Ibadah"
+    },
+    {
+      "id": "puasa",
+      "en": "fasting",
+      "ar": "صيام",
+      "kategori": "Ibadah"
+    },
+    {
+      "id": "zakat",
+      "en": "alms",
+      "ar": "زكاة",
+      "kategori": "Ibadah"
+    },
+    {
+      "id": "doa",
+      "en": "supplication",
+      "ar": "دعاء",
+      "kategori": "Ibadah"
+    },
+    {
+      "id": "tilawah",
+      "en": "recitation",
+      "ar": "تلاوة",
+      "kategori": "Ibadah"
+    },
+    {
+      "id": "kajian",
+      "en": "study circle",
+      "ar": "حلقة علم",
+      "kategori": "Ibadah"
+    },
+    {
+      "id": "ustaz",
+      "en": "religious teacher",
+      "ar": "أستاذ ديني",
+      "kategori": "Ibadah"
+    },
+    {
+      "id": "tahajud",
+      "en": "night prayer",
+      "ar": "صلاة التهجد",
+      "kategori": "Ibadah"
+    },
+    {
+      "id": "senang",
+      "en": "happy",
+      "ar": "سعيد",
+      "kategori": "Perasaan"
+    },
+    {
+      "id": "sedih",
+      "en": "sad",
+      "ar": "حزين",
+      "kategori": "Perasaan"
+    },
+    {
+      "id": "marah",
+      "en": "angry",
+      "ar": "غاضب",
+      "kategori": "Perasaan"
+    },
+    {
+      "id": "takut",
+      "en": "afraid",
+      "ar": "خائف",
+      "kategori": "Perasaan"
+    },
+    {
+      "id": "khawatir",
+      "en": "worried",
+      "ar": "قلق",
+      "kategori": "Perasaan"
+    },
+    {
+      "id": "tenang",
+      "en": "calm",
+      "ar": "هادئ",
+      "kategori": "Perasaan"
+    },
+    {
+      "id": "lelah",
+      "en": "tired",
+      "ar": "متعب",
+      "kategori": "Perasaan"
+    },
+    {
+      "id": "semangat",
+      "en": "motivated",
+      "ar": "متحمس",
+      "kategori": "Perasaan"
+    },
+    {
+      "id": "bosan",
+      "en": "bored",
+      "ar": "ملل",
+      "kategori": "Perasaan"
+    },
+    {
+      "id": "percaya diri",
+      "en": "confident",
+      "ar": "واثق",
+      "kategori": "Perasaan"
+    },
+    {
+      "id": "belajar",
+      "en": "study",
+      "ar": "يدرس",
+      "kategori": "Kegiatan"
+    },
+    {
+      "id": "bekerja",
+      "en": "work",
+      "ar": "يعمل",
+      "kategori": "Kegiatan"
+    },
+    {
+      "id": "bermain",
+      "en": "play",
+      "ar": "يلعب",
+      "kategori": "Kegiatan"
+    },
+    {
+      "id": "bertemu",
+      "en": "meet",
+      "ar": "يقابل",
+      "kategori": "Kegiatan"
+    },
+    {
+      "id": "mengajar",
+      "en": "teach",
+      "ar": "يعلّم",
+      "kategori": "Kegiatan"
+    },
+    {
+      "id": "mendengar",
+      "en": "listen",
+      "ar": "يستمع",
+      "kategori": "Kegiatan"
+    },
+    {
+      "id": "melihat",
+      "en": "see",
+      "ar": "يرى",
+      "kategori": "Kegiatan"
+    },
+    {
+      "id": "berjalan",
+      "en": "walk",
+      "ar": "يمشي",
+      "kategori": "Kegiatan"
+    },
+    {
+      "id": "berlari",
+      "en": "run",
+      "ar": "يجري",
+      "kategori": "Kegiatan"
+    },
+    {
+      "id": "menunggu",
+      "en": "wait",
+      "ar": "ينتظر",
+      "kategori": "Kegiatan"
+    },
+    {
+      "id": "mengirim",
+      "en": "send",
+      "ar": "يرسل",
+      "kategori": "Kegiatan"
+    },
+    {
+      "id": "menerima",
+      "en": "receive",
+      "ar": "يستلم",
+      "kategori": "Kegiatan"
+    },
+    {
+      "id": "membuka",
+      "en": "open",
+      "ar": "يفتح",
+      "kategori": "Kegiatan"
+    },
+    {
+      "id": "menutup",
+      "en": "close",
+      "ar": "يغلق",
+      "kategori": "Kegiatan"
+    },
+    {
+      "id": "memulai",
+      "en": "start",
+      "ar": "يبدأ",
+      "kategori": "Kegiatan"
+    },
+    {
+      "id": "mengakhiri",
+      "en": "finish",
+      "ar": "ينهي",
+      "kategori": "Kegiatan"
+    }
+  ]
+}

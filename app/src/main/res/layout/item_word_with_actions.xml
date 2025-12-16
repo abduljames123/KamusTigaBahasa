@@ -1,0 +1,65 @@
+
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical"
+    android:padding="12dp"
+    android:layout_marginBottom="10dp"
+    android:background="@android:color/white"
+    android:elevation="2dp">
+
+    <TextView
+        android:id="@+id/tvIndo"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="(indo)"
+        android:textStyle="bold"
+        android:textSize="18sp"/>
+
+    <TextView
+        android:id="@+id/tvEnglish"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="(english)"
+        android:textColor="#555"/>
+
+    <TextView
+        android:id="@+id/tvArabic"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="(arabic)"
+        android:textColor="#777"/>
+
+    <TextView
+        android:id="@+id/tvCategory"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="(kategori)"
+        android:textStyle="italic"
+        android:textColor="#009688"
+        android:layout_marginTop="2dp"/>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="end"
+        android:orientation="horizontal"
+        android:layout_marginTop="6dp">
+
+        <ImageButton
+            android:id="@+id/btnEdit"
+            android:layout_width="40dp"
+            android:layout_height="40dp"
+            android:src="@android:drawable/ic_menu_edit"
+            android:contentDescription="Edit"
+            android:background="?attr/selectableItemBackgroundBorderless"/>
+
+        <ImageButton
+            android:id="@+id/btnDelete"
+            android:layout_width="40dp"
+            android:layout_height="40dp"
+            android:src="@android:drawable/ic_menu_delete"
+            android:contentDescription="Hapus"
+            android:background="?attr/selectableItemBackgroundBorderless"/>
+    </LinearLayout>
+</LinearLayout>
