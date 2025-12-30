@@ -2,7 +2,7 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:tools="http://schemas.android.com/tools">
 
-    <!-- Permission: jaringan/internet untuk Firebase, API calls, dll -->
+    <!-- Permission internet (Firebase / API) -->
     <uses-permission android:name="android.permission.INTERNET" />
 
     <application
@@ -10,29 +10,32 @@
         android:dataExtractionRules="@xml/data_extraction_rules"
         android:fullBackupContent="@xml/backup_rules"
         android:icon="@mipmap/ic_launcher"
-        android:label="@string/app_name"
         android:roundIcon="@mipmap/ic_launcher_round"
+        android:label="@string/app_name"
         android:supportsRtl="true"
-        android:theme="@style/Theme.KamusTigaBahasa">
+        android:theme="@style/Theme.KamusTigaBahasa"
+        tools:targetApi="31">
 
-        <!-- SPLASH ACTIVITY (launcher) -->
-        <!-- Jika ingin splash full-screen, buat theme khusus (Theme.Splash) dan gunakan di sini -->
+        <!-- ================= SPLASH ACTIVITY (LAUNCHER) ================= -->
         <activity
             android:name=".SplashActivity"
             android:exported="true"
-            android:theme="@style/Theme.KamusTigaBahasa.Splash">  <!-- optional: ubah theme jika ingin fullscreen -->
+            android:theme="@style/Theme.KamusTigaBahasa.Splash">
+
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
+
         </activity>
 
-        <!-- MAIN ACTIVITY -->
+        <!-- ================= MAIN ACTIVITY ================= -->
         <activity
             android:name=".MainActivity"
             android:exported="false" />
 
-        <!-- Tambahkan activity lain di sini jika perlu (mis. DetailActivity, SettingsActivity) -->
+        <!-- Tambah activity lain di bawah ini jika ada -->
+
     </application>
 
 </manifest>

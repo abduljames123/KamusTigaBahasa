@@ -1,65 +1,109 @@
-
-<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+<?xml version="1.0" encoding="utf-8"?>
+<com.google.android.material.card.MaterialCardView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
     android:layout_width="match_parent"
     android:layout_height="wrap_content"
-    android:orientation="vertical"
-    android:padding="12dp"
-    android:layout_marginBottom="10dp"
-    android:background="@android:color/white"
-    android:elevation="2dp">
-
-    <TextView
-        android:id="@+id/tvIndo"
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:text="(indo)"
-        android:textStyle="bold"
-        android:textSize="18sp"/>
-
-    <TextView
-        android:id="@+id/tvEnglish"
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:text="(english)"
-        android:textColor="#555"/>
-
-    <TextView
-        android:id="@+id/tvArabic"
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:text="(arabic)"
-        android:textColor="#777"/>
-
-    <TextView
-        android:id="@+id/tvCategory"
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:text="(kategori)"
-        android:textStyle="italic"
-        android:textColor="#009688"
-        android:layout_marginTop="2dp"/>
+    android:layout_marginHorizontal="12dp"
+    android:layout_marginVertical="6dp"
+    app:cardCornerRadius="18dp"
+    app:cardElevation="2dp"
+    app:strokeWidth="1dp"
+    app:strokeColor="#E5E7EB"
+    app:cardUseCompatPadding="true">
 
     <LinearLayout
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:gravity="end"
-        android:orientation="horizontal"
-        android:layout_marginTop="6dp">
+        android:orientation="vertical"
+        android:padding="14dp">
 
-        <ImageButton
-            android:id="@+id/btnEdit"
-            android:layout_width="40dp"
-            android:layout_height="40dp"
-            android:src="@android:drawable/ic_menu_edit"
-            android:contentDescription="Edit"
-            android:background="?attr/selectableItemBackgroundBorderless"/>
+        <!-- Top: Indo + action buttons -->
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal"
+            android:gravity="center_vertical">
 
-        <ImageButton
-            android:id="@+id/btnDelete"
-            android:layout_width="40dp"
-            android:layout_height="40dp"
-            android:src="@android:drawable/ic_menu_delete"
-            android:contentDescription="Hapus"
-            android:background="?attr/selectableItemBackgroundBorderless"/>
+            <TextView
+                android:id="@+id/tvIndo"
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:text="(indo)"
+                android:textStyle="bold"
+                android:textSize="18sp"
+                android:textColor="#111827"
+                android:maxLines="1"
+                android:ellipsize="end" />
+
+            <ImageButton
+                android:id="@+id/btnEdit"
+                android:layout_width="40dp"
+                android:layout_height="40dp"
+                android:src="@android:drawable/ic_menu_edit"
+                android:contentDescription="Edit"
+                android:background="?attr/selectableItemBackgroundBorderless"
+                android:tint="#6B7280" />
+
+            <ImageButton
+                android:id="@+id/btnDelete"
+                android:layout_width="40dp"
+                android:layout_height="40dp"
+                android:src="@android:drawable/ic_menu_delete"
+                android:contentDescription="Hapus"
+                android:background="?attr/selectableItemBackgroundBorderless"
+                android:tint="#EF4444" />
+        </LinearLayout>
+
+        <!-- English -->
+        <TextView
+            android:id="@+id/tvEnglish"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="8dp"
+            android:text="(english)"
+            android:textSize="14sp"
+            android:textColor="#374151"
+            android:maxLines="2"
+            android:ellipsize="end" />
+
+        <!-- Arabic (RTL, align end) -->
+        <TextView
+            android:id="@+id/tvArabic"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="4dp"
+            android:text="(arabic)"
+            android:textSize="16sp"
+            android:textColor="#111827"
+            android:textDirection="rtl"
+            android:gravity="end"
+            android:maxLines="2"
+            android:ellipsize="end" />
+
+        <!-- Category badge -->
+        <com.google.android.material.card.MaterialCardView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="10dp"
+            app:cardCornerRadius="999dp"
+            app:cardElevation="0dp"
+            app:strokeWidth="1dp"
+            app:strokeColor="#BBF7D0"
+            app:cardBackgroundColor="#ECFDF5">
+
+            <TextView
+                android:id="@+id/tvCategory"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="(kategori)"
+                android:textStyle="bold"
+                android:textSize="12sp"
+                android:textColor="#16A34A"
+                android:paddingHorizontal="10dp"
+                android:paddingVertical="6dp" />
+        </com.google.android.material.card.MaterialCardView>
+
     </LinearLayout>
-</LinearLayout>
+
+</com.google.android.material.card.MaterialCardView>

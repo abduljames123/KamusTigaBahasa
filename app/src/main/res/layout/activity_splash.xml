@@ -18,7 +18,7 @@
             android:layout_height="200dp"
             android:layout_centerInParent="true"
             android:scaleType="centerCrop"
-            android:src="@drawable/logo_kamus"
+            android:src="@drawable/logonew_kamus"
             android:contentDescription="Logo" />
 
         <TextView

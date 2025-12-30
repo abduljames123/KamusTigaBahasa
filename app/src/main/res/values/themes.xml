@@ -1,21 +1,16 @@
-<!-- res/values/themes.xml -->
+<?xml version="1.0" encoding="utf-8"?>
 <resources>
 
-    <!-- existing app theme -->
+    <!-- THEME UTAMA APP -->
     <style name="Theme.KamusTigaBahasa" parent="Theme.Material3.DayNight.NoActionBar">
-        <!-- your existing items -->
         <item name="android:fontFamily">@font/poppins</item>
-        <!-- tambahkan color, textAppearance, dll bila perlu -->
     </style>
 
-    <!-- Splash theme: no action bar, full-screen, background same as main gradient -->
+    <!-- SPLASH THEME UNTUK ANDROID < 12 -->
     <style name="Theme.KamusTigaBahasa.Splash" parent="Theme.Material3.DayNight.NoActionBar">
-        <!-- biarkan status bar tampil atau jadikan transparant -->
         <item name="android:windowBackground">@drawable/bg_main_gradient</item>
-        <!-- jika mau fullscreen (hilangkan status bar), pakai ini -->
-        <item name="android:windowFullscreen">true</item>
-        <!-- jika ingin statusbar transparan (opsional) -->
         <item name="android:statusBarColor">@android:color/transparent</item>
+        <item name="android:windowFullscreen">true</item>
     </style>
 
 </resources>
